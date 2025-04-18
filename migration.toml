@@ -1,0 +1,2 @@
+manager = "src/databases/migration"
+src_folder = "src/databases/entities"
